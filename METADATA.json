@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Tamil",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 21626,
+  "fonts": [
+    {
+      "name": "Noto Sans Tamil",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansTamil-Bold.ttf",
+      "postScriptName": "NotoSansTamil-Bold",
+      "fullName": "Noto Sans Tamil Bold",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Tamil",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansTamil-Regular.ttf",
+      "postScriptName": "NotoSansTamil",
+      "fullName": "Noto Sans Tamil",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
